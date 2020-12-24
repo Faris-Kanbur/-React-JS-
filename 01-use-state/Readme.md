@@ -1,4 +1,4 @@
-# 01 Use State
+# Use State
 
 In this basic sample we will just add state to a function component, using
 _React.useState_
